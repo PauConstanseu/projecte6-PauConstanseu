@@ -16,4 +16,3 @@ Per aquest motiu, Projecte Nexus us ha demanat una **demostració pràctica** de
 - 🪪 **Autenticitat**
 
 L’objectiu és mostrar, de manera clara i efectiva, els mecanismes que podeu implementar per assegurar la protecció completa de la seva informació acadèmica.
-hola mundo
