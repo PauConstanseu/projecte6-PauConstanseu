@@ -1,3 +1,6 @@
+**Nom: Pau Constanseu**
+**Company de grup: Pol Serrano**
+
 # 🌐 Introducció
 
 Aprofitant que ja hi esteu treballant amb la seva infraestructura web, des de **Projecte Nexus** us sol·liciten una nova petició d’ajuda.  
