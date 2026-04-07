@@ -6,9 +6,9 @@
 
 ## Autor
 
-Nom: [Escriu el teu nom aquí]
+Nom: Pau Constanseu
 
-Formant grups de treball: [Escriu els noms dels membres del grup aquí]
+Formant grups de treball: Pau i Pol S
 
 ## Descripció del projecte
 
